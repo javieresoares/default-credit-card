@@ -3,6 +3,11 @@
 
 Aplikasi **Machine Learning** berbasis **Streamlit** untuk memprediksi kemungkinan seorang nasabah kartu kredit akan mengalami **default** (gagal bayar) pada bulan berikutnya.
 
+## 🚀 Live Demo
+
+👉 **Check out the deployed Streamlit app here:**  
+[https://default-credit-card-prediction.streamlit.app/](https://default-credit-card-prediction.streamlit.app/)
+
 ## 📁 Struktur Proyek
 
 ```
